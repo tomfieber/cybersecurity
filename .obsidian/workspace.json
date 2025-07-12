@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodologies/web-app-testing/web-app-testing-methodology.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "web-app-testing-methodology"
+              "title": "README"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "methodologies/web-app-testing/web-app-testing-methodology.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for web-app-testing-methodology"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -173,9 +173,9 @@
   },
   "active": "5138a8b8a20239bc",
   "lastOpenFiles": [
+    "methodologies/web-app-testing/web-app-testing-methodology.md",
     "methodologies/network-pentesting/internal-network-pentesting.md",
     "methodologies/network-pentesting/external-network-pentesting.md",
-    "methodologies/web-app-testing/web-app-testing-methodology.md",
     "cheatsheets/repo-searching.md",
     "cheatsheets/google-dorking.md",
     "cheatsheets",

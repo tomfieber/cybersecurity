@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "97b3b9de1b7635ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "a55032b264949c3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5138a8b8a20239bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "methodologies/web-app-testing/web-app-testing-methodology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "web-app-testing-methodology"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cb4387188740e50",
+    "type": "split",
+    "children": [
+      {
+        "id": "e972ea8b70df6f31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98d5a6ee5453f48b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9794fb9e5d4ec18f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d64ee9c178bf7e71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ec78f196e8568169",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed74523dbb2917bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf628b49918a90c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "methodologies/web-app-testing/web-app-testing-methodology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for web-app-testing-methodology"
+            }
+          },
+          {
+            "id": "98d117b249041124",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "methodologies/web-app-testing/web-app-testing-methodology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from web-app-testing-methodology"
+            }
+          },
+          {
+            "id": "ee5b628b0437888b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "553a7c068d95be61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "methodologies/web-app-testing/web-app-testing-methodology.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of web-app-testing-methodology"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5138a8b8a20239bc",
+  "lastOpenFiles": [
+    "methodologies/network-pentesting/internal-network-pentesting.md",
+    "methodologies/network-pentesting/external-network-pentesting.md",
+    "methodologies/web-app-testing/web-app-testing-methodology.md",
+    "cheatsheets/repo-searching.md",
+    "cheatsheets/google-dorking.md",
+    "cheatsheets",
+    "methodologies/network-pentesting",
+    "methodologies/web-app-testing",
+    "methodologies"
+  ]
+}

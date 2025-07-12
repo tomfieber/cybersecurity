@@ -1,0 +1,8 @@
+{
+  "showInlineTitle": false,
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "cheatsheets",
+  "attachmentFolderPath": "./attachments"
+}

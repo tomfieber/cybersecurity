@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheets/Code Repo Searching.md",
-                "mode": "preview",
+                "file": "methodologies/web-testing/web-app-methodology.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code Repo Searching"
+              "title": "web-app-methodology"
             }
           }
         ]
@@ -173,15 +173,18 @@
   },
   "active": "5138a8b8a20239bc",
   "lastOpenFiles": [
-    "Methodologies/Network Testing/External Network Testing.md",
-    "Methodologies/Network Testing/Internal Network Tessting.md",
-    "Methodologies/Web App Testing/Web App Testing Methodology.md",
-    "README.md",
+    "cheatsheets/github-searching.md",
+    "methodologies/web-testing/web-app-methodology.md",
+    "cheatsheets/google-dorks.md",
+    "cheatsheets/google-dorking.md",
+    "methodologies/network-testing/internal-network-testing.md",
+    "methodologies/network-testing/external-network-testing.md",
     "Cheatsheets/Code Repo Searching.md",
+    "README.md",
     "Cheatsheets/Google Dorking.md",
-    "Cheatsheets",
-    "Methodologies/Network Testing",
-    "Methodologies/Web App Testing",
-    "Methodologies"
+    "cheatsheets",
+    "methodologies/network-testing",
+    "methodologies/web-testing",
+    "methodologies"
   ]
 }

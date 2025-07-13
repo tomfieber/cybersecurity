@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodologies/web-testing/web-app-methodology.md",
-                "mode": "source",
+                "file": "cheatsheets/github-searching.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "web-app-methodology"
+              "title": "github-searching"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "5138a8b8a20239bc",
   "lastOpenFiles": [
-    "cheatsheets/github-searching.md",
     "methodologies/web-testing/web-app-methodology.md",
+    "cheatsheets/github-searching.md",
     "cheatsheets/google-dorks.md",
     "cheatsheets/google-dorking.md",
     "methodologies/network-testing/internal-network-testing.md",

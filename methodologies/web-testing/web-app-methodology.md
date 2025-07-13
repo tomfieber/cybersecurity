@@ -3,8 +3,8 @@
 ## Information Gathering
 
 - [ ]  Conduct Search Engine Discovery Reconnaissance for Information Leakage [WSTG-INFO-01](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/01-Conduct_Search_Engine_Discovery_Reconnaissance_for_Information_Leakage)
-	- [Google Dorking](google-dorks)
-	- [GitHub Searching](github-searching)
+	- [Google Dorking](../../cheatsheets/google-dorks.md)
+	- [GitHub Searching](../../cheatsheets/github-searching.md)
 - [ ]  Fingerprint Web Server [WSTG-INFO-02](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/01-Information_Gathering/02-Fingerprint_Web_Server)
     - Banner grabbing
     - whatweb, builtwith, etc. Make a note of technologies in use.
